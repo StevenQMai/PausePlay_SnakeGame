@@ -1,5 +1,5 @@
 # PausePlay_SnakeGame
-A snake game that lets you play as a snake constructed of play-buttons, attempting to overcome the ongoing onslaught of pause buttons
+A simple snake game that lets you play as a snake constructed of play buttons, attempting to consume all pause buttons that come your way
 
 ## Table of Contents
 1. [How to Play](#how-to-play)
