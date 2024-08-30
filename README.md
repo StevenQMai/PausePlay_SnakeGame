@@ -1,5 +1,5 @@
 # PausePlay_SnakeGame
-A simple snake game that lets you play as a snake constructed of play buttons, attempting to consume all pause buttons that come your way
+A simple snake game that lets you play as a snake constructed of play-buttons, attempting to consume all pause-buttons that come your way
 
 ## Table of Contents
 1. [How to Play](#how-to-play)
@@ -22,7 +22,7 @@ The basic controls are:
 
 - **Boundary Wrapping:** The snake wraps around the screen edges, appearing on the opposite side if it goes off-screen.
 
-- **Snake Growth:** The snake grows longer each time it eats food.
+- **Snake Growth:** The snake grows longer each time it eats a play-button.
 
 - **Game Over Screen:** Shows a "GAME OVER" message when the snake collides with itself.
 
